@@ -73,7 +73,7 @@ ffuad --list
 |----------|------|
 | 🇬🇧 English | `ffuad.sh` (default) |
 | 🇺🇿 Uzbek | `languages/ffuad_uz.sh` |
-| 🇰🇿 Karakalpak | `languages/ffuad_kk.sh` (coming soon) |
+| 🇬🇦 Karakalpak | `languages/ffuad_kk.sh` (coming soon) |
 
 To use another language:
 ```bash
